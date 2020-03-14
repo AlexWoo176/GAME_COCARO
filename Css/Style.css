@@ -1,0 +1,19 @@
+#container {
+    border: 2px solid blue;
+    width: 610px;
+    height: 615px;
+    margin: 80px auto;
+}
+table tr {
+    position: relative;
+    margin: 0px auto;
+    text-align: center;
+    font-family: Arial;
+    font-size: 26px;
+    color: blue;
+}
+td{
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+}
